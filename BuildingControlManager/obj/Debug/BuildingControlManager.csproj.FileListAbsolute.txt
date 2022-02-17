@@ -1,0 +1,9 @@
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\bin\Debug\BuildingControlManager.exe.config
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\bin\Debug\BuildingControlManager.exe
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\bin\Debug\BuildingControlManager.pdb
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\obj\Debug\BuildingControlManager.csproj.AssemblyReference.cache
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\obj\Debug\BuildingControlManager.Properties.Resources.resources
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\obj\Debug\BuildingControlManager.csproj.GenerateResource.cache
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\obj\Debug\BuildingControlManager.csproj.CoreCompileInputs.cache
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\obj\Debug\BuildingControlManager.exe
+E:\Users\OEM\source\repos\BuildingControl\BuildingControlManager\BuildingControlManager\obj\Debug\BuildingControlManager.pdb
