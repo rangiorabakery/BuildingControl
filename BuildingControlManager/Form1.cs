@@ -15,6 +15,7 @@ namespace BuildingControlManager
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Just add message box");
         }
     }
 }
